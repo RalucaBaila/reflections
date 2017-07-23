@@ -17,6 +17,8 @@ Next you stage other files that are related to the second logical change you wan
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+For example if you want to create a version into another language different than the original one.(Italian brach, English Branch).
+A branch is pointing into the commit's data history. This way is easier to do a hotfix and test and if everything works fine to merge with the master.
 
 How do the diagrams help you visualize the branch structure?
 
